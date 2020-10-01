@@ -4,8 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/JaswanthReddyPadala.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JaswanthReddyPadala?tab=followers)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... ![Generic badge](https://img.shields.io/badge/Javascript-projects-red.svg?style=for-the-badge)
 - 🌱 I’m currently learning ... ![Generic badge](https://img.shields.io/badge/Language-Javascript-yellow.svg?style=for-the-badge) ![Generic badge](https://img.shields.io/badge/Framework-React-blue.svg?style=for-the-badge)
 - 👯 I’m looking to collaborate with ... **Web development** Team, **Data Science** Team
