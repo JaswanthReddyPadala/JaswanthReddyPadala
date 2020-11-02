@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ... ![Generic badge](https://img.shields.io/badge/Javascript-projects-red.svg?style=for-the-badge)
 - 🌱 I’m currently learning ... ![Generic badge](https://img.shields.io/badge/Language-Javascript-yellow.svg?style=for-the-badge) ![Generic badge](https://img.shields.io/badge/Framework-React-blue.svg?style=for-the-badge)
-- 👯 I’m looking to collaborate with ... **Web development** Team, **Data Science** Team
+- 👯 I’m looking to collaborate with ... **Web development** Team
 - 🤔 I’m looking for ... someone who can ***guide*** or ***mentor*** me in learning **Full Stack Web development**
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
