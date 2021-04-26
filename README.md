@@ -8,16 +8,12 @@
 - 🌱 I’m currently learning ... ![Generic badge](https://img.shields.io/badge/Language-Javascript-yellow.svg?style=for-the-badge) ![Generic badge](https://img.shields.io/badge/Framework-React-blue.svg?style=for-the-badge)
 - 👯 I’m looking to collaborate with ... **Web development** Team
 - 🤔 I’m looking for ... someone who can ***guide*** or ***mentor*** me in learning **Full Stack Web development**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
 
 Till my completion of my hign school I never stepped into the world of coding. In my first year in college I have been introduced to **Python programming**. Initially I haven't spent more time in learning coding as I am a student of Electronics Engineering. Later I often used to learn coding in python when ever I am free.
 
 Coding makes me excited as I make a machine to do a task in a way that I wanted to approach. I love learning coding and exploring about new ways to approach a solution.
 
-I have started learning **web development** in my third year of my college and It's wow, I can make my own website designed using HTML, CSS. And Now I am learning Java script and excited to make cool things using Java script. Presently, I am learning Data science with ***storieswithsiva*** team.
+I have started learning **web development** in my third year of my college and It's wow, I can make my own website designed using HTML, CSS. And Now I am learning Java script and excited to make cool things using Java script.
 
 ### Come lets have small productive talk 
 
